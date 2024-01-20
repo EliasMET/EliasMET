@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**EliasMET/EliasMET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate developer from Germany 🇩🇪. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I specialize in PHP, Lua, and JavaScript.
+- 🌐 Always exploring new technologies and frameworks.
+
+## Tech Stack
+
+- **Languages:** PHP, Lua, JavaScript
+- **Frameworks:** React
+- **Databases:** MySql
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EliasMET&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+
+## Projects
+
+- 🚀 [Lua Scripts](https://github.com/EliasMET/Rbx-Scripts) -Roblox Lua scripts.
+- ⚙️ [Website](https://trophyhub.me) - My Roblox script website
+
+## Connect with Me
+
+- 📧 Email: [elias@trophyhub.me](mailto:elias.trophyhub.me)
+- 💼 Discord: elias_5
+
+Feel free to explore my repositories and don't hesitate to reach out! Happy coding! 🚀
