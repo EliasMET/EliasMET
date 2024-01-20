@@ -7,11 +7,6 @@ I'm Elias, a passionate developer from Germany 🇩🇪. Welcome to my GitHub pr
 - 💻 I specialize in PHP, Lua, and JavaScript.
 - 🌐 Always exploring new technologies and frameworks.
 
-## Tech Stack
-
-- **Languages:** PHP, Lua, JavaScript
-- **Frameworks:** React
-- **Databases:** MySql
 
 ## GitHub Stats
 
