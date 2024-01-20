@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate developer from Germany 🇩🇪. Welcome to my GitHub profile! 🚀
+I'm [Elias], a passionate developer from Germany 🇩🇪. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
